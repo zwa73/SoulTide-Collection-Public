@@ -13,8 +13,8 @@ https://mega.nz/folder/OuJCGIJK#X6F5Oi8EsP-G6jzSqm3vmQ
 手机网页无法直接下载，如需在手机浏览器上下载，可使用“请求电脑网页”功能，电脑网页中可以正常下载  
 If you want to download on mobile browser, you can use the function of "request computer webpage", which can be downloaded normally on computer webpage.  
 
-如果出现了正常加载问候语，请在菜单中选择重载  
-If the normal loading greeting appears, select Reload in the menu  
+如果没有正常加载初始问候语，请在菜单中选择重载  
+If the initial greeting is not loaded properly, select Reload in the menu  
 
 所有英文文本来自DeepL  
 All English text from DeepL  
