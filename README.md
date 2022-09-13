@@ -3,7 +3,7 @@
 **Please use 30FPS (default) mode to run**  
 
 
-双击 "模型范围内并且在可触发区域外" 的部分呼出菜单
+双击 "模型范围内并且在可触发区域外" 的部分呼出菜单  
 Double-click on the "Within the model and outside the triggerable area" section to call up the menu
 
 如果要在手机上使用请下载这个  
